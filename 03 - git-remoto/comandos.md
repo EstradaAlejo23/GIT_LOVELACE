@@ -25,3 +25,4 @@ git push -u nombre_conexion nombre_rama (busca la rama y si no existe la crea)
 git pull
 git pull nombre_conexion nombre_rama
 
+# titulo 2
